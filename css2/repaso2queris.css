@@ -1,0 +1,45 @@
+@media screen and (max-width: 768px ) {
+    .header img {
+        width: 100%;
+    }
+
+    section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .zapaswhite img {
+        width: 728px;
+        height: 398px;
+    }
+
+    .zapasgray  {
+        position: absolute;
+        margin-top: 575px;
+        margin-right: 370px;
+        width: 354px;
+    }
+
+    .zapasblue {
+        position: relative;
+        margin-top: 25px;
+        margin-left: 370px;
+        width: 354px;
+    }
+
+    .zapasgray img {
+        width: 354px;
+    }
+
+    .zapasblue img {
+        width: 354px;
+    }
+
+    .gray {
+        width: 354px;
+    }
+
+    .blue {
+        width: 354px;
+    }
+}
